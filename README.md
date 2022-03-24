@@ -1,4 +1,4 @@
-Coding is the fuel that runs my ship.
+Coding is the fuel that runs my ship :sailboat:.
 - Java programming:yum:.
 - HTML 5 and Css 3:alien:.
 - Python.(coding the snake:sweat_smile:)
