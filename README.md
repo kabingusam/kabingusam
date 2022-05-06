@@ -9,7 +9,7 @@ Coding is the fuel that runs my ship :sailboat:.
 
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=kabingusam
+https://github-readme-streak-stats.herokuapp.com/?user=your-github-kabingusam
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kabingusam?cardType=level&theme=github-dark&Ring=EFB7BA)](https://git.io/awesome-stats-card)
 
