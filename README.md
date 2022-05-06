@@ -6,3 +6,5 @@ Coding is the fuel that runs my ship :sailboat:.
 - C programming:exploding_head:.
 - Also learning Javascript and JQuery	:nerd_face:.
 #coddingaddict.
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/kabingusam)](https://git.io/awesome-stats-card)
