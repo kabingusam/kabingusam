@@ -11,4 +11,4 @@ Coding is the fuel that runs my ship :sailboat:.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kabingusam)](https://github.com/kabingusam/github-readme-stats)
 
-![Kabingu's github stats](https://github-readme-stats.vercel.app/api?username=kabingusam)
+
