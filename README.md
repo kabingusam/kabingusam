@@ -49,6 +49,6 @@ I'm a  passionate  developer from Nairobi 🇰🇪.Coding is the fuel that runs 
     </a>
   <a href="https://www.twwitter.com" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
-    <a href="https://www.codepen.com" target="blank"><img src="	https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
+    <a href="https://www.codepen.com" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
     </a>
 </span>
