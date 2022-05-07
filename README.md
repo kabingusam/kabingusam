@@ -47,7 +47,7 @@ I'm a  passionate  developer from Nairobi 🇰🇪.Coding is the fuel that runs 
     <a href="https://www.linkedin.com/in/kabingu Sammy/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://github.com/kabingusam" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=violet"/>
     </a>
-  <a href="https://www.twwitter.com" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://www.twitter.com/Kabingu Sammy" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
     <a href="https://www.codepen.com/kabi-ke" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
     </a>
