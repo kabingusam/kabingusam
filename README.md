@@ -1,15 +1,15 @@
 
-I'm a  passionate  developer from  ### Nairobi 🇰🇪.
+I'm a  passionate  developer from Nairobi 🇰🇪.
 <br>
 <br>
 Coding is the fuel that runs my ship :sailboat:.
 <br>
-- Java programming:yum:.
-- HTML 5 and Css 3:alien:.
-- Python.(coding the snake:sweat_smile:)
-- Shell scripting	:nerd_face:.
-- C programming:exploding_head:.
-- Also learning Javascript and JQuery	:nerd_face:.
+-Java programming:yum:.
+-HTML 5 and Css 3:alien:.
+-Python.(coding the snake:sweat_smile:)
+-Shell scripting	:nerd_face:.
+-C programming:exploding_head:.
+-Also learning Javascript and JQuery	:nerd_face:.
 #coddingaddict.
 
 ### :fire: My Stats :
@@ -21,7 +21,7 @@ Coding is the fuel that runs my ship :sailboat:.
 <img src='[https://giphy.com/embed/du3J3cXyzhj75IOgvA" width="480" height="469" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA">via GIPHY</a></p>]' alt=""></img>
 
 
-### : Reach me :
+### Reach me :
 
 </br>
 <span>
