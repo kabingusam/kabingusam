@@ -18,5 +18,5 @@ Coding is the fuel that runs my ship :sailboat:.
 " />
 </a>
 <a href="https://github.com/kabingusam/convoychat">
-  <img align="center" src="(https://awesome-github-stats.azurewebsites.net/user-stats/kabingusam?cardType=level&theme=github-dark&Ring=EFB7BA)](https://git.io/awesome-stats-card)" />
+  <img align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/kabingusam?cardType=level&theme=github-dark&Ring=EFB7BA)](https://git.io/awesome-stats-card)" />
 </a>
