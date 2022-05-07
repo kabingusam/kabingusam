@@ -1,5 +1,6 @@
 
-I'm a  passionate  developer from Nairobi 🇰🇪.
+I'm a  passionate  developer from Nairobi 🇰🇪.Coding is the fuel that runs my ship :sailboat:.
+#coddingaddict. 
 <br>
 <br>
 
