@@ -3,7 +3,7 @@
   <img 
     width="300"
     height="300"
-    ![images1](https://user-images.githubusercontent.com/80510478/168596957-341a305b-9909-4d78-b85f-681bf85c69ef.jpg)
+    src = "images1.jpg"
   >
 </p>
 
