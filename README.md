@@ -1,17 +1,5 @@
 
-<p align="center">
-  <img 
-    width="300"
-    height="300"
-    <img src="kabingusam/All-dev/images1.jpg" alt="Employee data" title="Employee Data title">
-
-  >
-</p>
-
-
-<p align="center">
-
-<!--   ![images1](https://user-images.githubusercontent.com/80510478/168596957-341a305b-9909-4d78-b85f-681bf85c69ef.jpg) -->
+  ![images1](https://user-images.githubusercontent.com/80510478/168596957-341a305b-9909-4d78-b85f-681bf85c69ef.jpg)
 
 <br>
 
