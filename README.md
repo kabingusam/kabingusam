@@ -1,7 +1,16 @@
 
 <p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="![images1](https://user-images.githubusercontent.com/80510478/168596957-341a305b-9909-4d78-b85f-681bf85c69ef.jpg)"
+  >
+</p>
 
-  ![images1](https://user-images.githubusercontent.com/80510478/168596957-341a305b-9909-4d78-b85f-681bf85c69ef.jpg)
+
+<p align="center">
+
+<!--   ![images1](https://user-images.githubusercontent.com/80510478/168596957-341a305b-9909-4d78-b85f-681bf85c69ef.jpg) -->
 
 <br>
 
