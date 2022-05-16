@@ -1,12 +1,14 @@
 <p align="center">
 
-<img src="![images1](https://user-images.githubusercontent.com/80510478/168596957-341a305b-9909-4d78-b85f-681bf85c69ef.jpg)" width="400\"/>
+<img src="![images1](https://user-images.githubusercontent.com/80510478/168596957-341a305b-9909-4d78-b85f-681bf85c69ef.jpg)" 
+     style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 
 <br>
+ 
 
-<h1><p align="center"></h1></p></font>
 
-![images1](https://user-images.githubusercontent.com/80510478/168596957-341a305b-9909-4d78-b85f-681bf85c69ef.jpg)
+<!-- ![images1](https://user-images.githubusercontent.com/80510478/168596957-341a305b-9909-4d78-b85f-681bf85c69ef.jpg) -->
 
 
 I'm a  passionate  developer from Nairobi 🇰🇪.Coding is the fuel that runs my ship :sailboat:.
