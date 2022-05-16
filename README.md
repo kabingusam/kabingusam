@@ -3,7 +3,7 @@
   <img 
     width="300"
     height="300"
-    src = "images1.jpg"
+    src = "https://github.com/kabingusam/All-dev/images1.jpg"
   >
 </p>
 
