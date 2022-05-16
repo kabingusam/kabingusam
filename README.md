@@ -1,13 +1,6 @@
-
-  	
 <!-- ![alt text](https://user-images.githubusercontent.com/80510478/168596957-341a305b-9909-4d78-b85f-681bf85c69ef.jpg) -->
-
-<br>
-
-
-<h1><p align="center"></h1></p></font>
-
-
+<!-- <br>
+<h1><p align="center"></h1></p></font> -->
 
 I'm a  passionate  developer from Nairobi 🇰🇪.Coding is the fuel that runs my ship :sailboat:.
 #codingaddict. 
