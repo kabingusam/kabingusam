@@ -2,6 +2,8 @@
 <!-- <br>
 <h1><p align="center"></h1></p></font> -->
 
+<iframe src="https://giphy.com/embed/IauL6LvGNlT3ffhcqq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/10Clouds-computer-10clouds-10c-IauL6LvGNlT3ffhcqq">via GIPHY</a></p>
+
 I'm a  passionate  developer from Nairobi 🇰🇪.Coding is the fuel that runs my ship :sailboat:.
 
 <br>
