@@ -3,7 +3,7 @@
 <h1><p align="center"></h1></p></font> -->
 
 I'm a  passionate  developer from Nairobi 🇰🇪.Coding is the fuel that runs my ship :sailboat:.
-#codingaddict. 
+
 <br>
 <br>
 
