@@ -29,8 +29,10 @@
   <br>
   <br>
 <div align= "left"
-     
-  ### 💻_technologist: About Me :
+   
+     ---
+
+### 💻_technologist: About Me :
 
   🖥️ I'm a  passionate  developer from Nairobi 🇰🇪.
 
