@@ -33,8 +33,8 @@
      ---
 
 ### 💻_technologist: About Me :
-     <br>
-     <br>
+     
+     
 
 -  🖥️ I'm a  passionate  developer from Nairobi 🇰🇪.
 
