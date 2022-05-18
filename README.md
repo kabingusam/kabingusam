@@ -33,14 +33,16 @@
      ---
 
 ### 💻_technologist: About Me :
+     <br>
+     <br>
 
-  🖥️ I'm a  passionate  developer from Nairobi 🇰🇪.
+-  🖥️ I'm a  passionate  developer from Nairobi 🇰🇪.
 
-  🏫 Currently a student.
+-  🏫 Currently a student.
   
-  🐕 And i love dogs.
+-  🐕 And i love dogs.
 
-  ⛽ Coding is the fuel that runs my ship :sailboat:..
+-  ⛽ Coding is the fuel that runs my ship :sailboat:..
 
 </div>
 <br>
