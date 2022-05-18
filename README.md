@@ -16,6 +16,15 @@
 </span>
 <div>
 
+  
+ <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div> 
+  
+  
+  
+  
+  
 
 <div align="center">
     I'm a  passionate  developer from Nairobi 🇰🇪.Coding is the fuel that runs my ship :sailboat:.
