@@ -1,31 +1,35 @@
+<!-- intro and gif -->
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="100"/>
 </div>
 
+<!-- how to reach me -->
+
 <div align= "center">
   <span>
-<!--     <a href="https://codepen.io/tolentinoel" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=green"/></a> -->
-    <a href="mailto:kabingusammy@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/kabingu Sammy/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://github.com/kabingusam" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=violet"/>
-    </a>
-  <a href="https://www.twitter.com/Kabingu Sammy" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-    </a>
-    <a href="https://www.codepen.com/kabi-ke" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/>
-    </a>
-</span>
+<a href="kabingusammy@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    
+<a href="https://www.linkedin.com/in/kabingu Sammy/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    
+<a href="https://github.com/kabingusam" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=violet"/></a>
+    
+<a href="https://www.twitter.com/Kabingu Sammy" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    
+<a href="https://www.codepen.com/kabi-ke" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+    
+</span> 
 <div>
 
+  <br>
+  <br>
   
- <div align="center">
+<!-- coding dude gif  -->
+  
+<div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> 
   
-  
-  
-  
-  
-
 <div align="center">
     I'm a  passionate  developer from Nairobi 🇰🇪.Coding is the fuel that runs my ship :sailboat:.
 </div>
