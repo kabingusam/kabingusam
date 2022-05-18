@@ -26,8 +26,18 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> 
   
+  
+ 
+### 🤓: About Me :
 
-    I'm a  passionate  developer from Nairobi 🇰🇪.Coding is the fuel that runs my ship :sailboat:.
+  - 🖥️: I'm a  passionate  developer from Nairobi 🇰🇪.
+
+  - 🏫: Currently a student.
+  
+  - 🐕: And i love dogs.
+
+  - ⛽: Coding is the fuel that runs my ship :sailboat:..
+
 </div>
 <br>
 <br>
