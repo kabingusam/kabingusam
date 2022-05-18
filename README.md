@@ -1,8 +1,8 @@
-<!-- ![alt text](https://user-images.githubusercontent.com/80510478/168596957-341a305b-9909-4d78-b85f-681bf85c69ef.jpg) -->
-<!-- <br>
-<h1><p align="center"></h1></p></font> -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="100"/>
+</div>
 
-<iframe src="https://giphy.com/embed/IauL6LvGNlT3ffhcqq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/10Clouds-computer-10clouds-10c-IauL6LvGNlT3ffhcqq">via GIPHY</a></p>
+
 
 I'm a  passionate  developer from Nairobi 🇰🇪.Coding is the fuel that runs my ship :sailboat:.
 
