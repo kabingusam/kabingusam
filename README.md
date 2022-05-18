@@ -32,7 +32,7 @@
    
      ---
 
-### 💻_technologist: About Me :
+### Computer_technologist: About Me :
      
      
 
