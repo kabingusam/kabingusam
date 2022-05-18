@@ -30,7 +30,7 @@
   <br>
 <div align= "left"
      
-  🤓: About Me :
+  ### 💻_technologist: About Me :
 
   🖥️ I'm a  passionate  developer from Nairobi 🇰🇪.
 
