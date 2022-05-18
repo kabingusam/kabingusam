@@ -26,17 +26,19 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> 
  </div>
-  
+  <br>
+  <br>
 <div align= "left"
-### 🤓: About Me :
+     
+  🤓: About Me :
 
-  🖥️: I'm a  passionate  developer from Nairobi 🇰🇪.
+  🖥️ I'm a  passionate  developer from Nairobi 🇰🇪.
 
-  🏫: Currently a student.
+  🏫 Currently a student.
   
-  🐕: And i love dogs.
+  🐕 And i love dogs.
 
-  ⛽: Coding is the fuel that runs my ship :sailboat:..
+  ⛽ Coding is the fuel that runs my ship :sailboat:..
 
 </div>
 <br>
