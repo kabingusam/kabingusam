@@ -3,9 +3,9 @@
 </div>
 
 
-
-I'm a  passionate  developer from Nairobi 🇰🇪.Coding is the fuel that runs my ship :sailboat:.
-
+<div align="center">
+    I'm a  passionate  developer from Nairobi 🇰🇪.Coding is the fuel that runs my ship :sailboat:.
+</div>
 <br>
 <br>
 
