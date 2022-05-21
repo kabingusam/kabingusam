@@ -40,9 +40,9 @@
 
 -  🏫 Currently a student.
   
--  🐕 And i love dogs.
-
 -  ⛽ Coding is the fuel that runs my ship :sailboat:..
+         
+-  🐕 i love dogs.
 
 </div>
 <br>
