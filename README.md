@@ -9,7 +9,7 @@
 <div align= "center">
   <span>
 <a href="kabingusammy@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/kabingu Sammy/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/kabingu-sammy-225b4418b/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BQQoyfSTqS4iAOaAbgw50JQ%3D%3D" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://github.com/kabingusam" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=violet"/></a>
     <a href="https://www.twitter.com/Kabingu Sammy" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://www.codepen.com/kabi-ke" target="blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
