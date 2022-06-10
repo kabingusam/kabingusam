@@ -36,7 +36,7 @@
      
      
 
--  🖥️ I'm a  passionate  developer from Nairobi 🇰🇪.        
+-  🖥️ I'm a  passionate  Software Engineer from Nairobi 🇰🇪.        
 
 -  🏫 Currently a student.
   
