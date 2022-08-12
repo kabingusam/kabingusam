@@ -1,7 +1,7 @@
 <!-- intro and gif -->
 
 <div id="header" align="center">
-  <img src="Simple Details Monochrome Hello! Let's Connect LinkedIn Banner.png" width="100"/>
+  <img src="Simple Details Monochrome Hello! Let's Connect LinkedIn Banner.png" />
 </div>
 <!--
 <div id="header" align="center">
