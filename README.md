@@ -1,10 +1,14 @@
 <!-- intro and gif -->
 
 <div id="header" align="center">
+  <img src="Simple Details Monochrome Hello! Let's Connect LinkedIn Banner.png" width="100"/>
+</div>
+<!--
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="100"/>
 </div>
 
-<!-- how to reach me -->
+ how to reach me -->
 
 <div align= "center">
   <span>
