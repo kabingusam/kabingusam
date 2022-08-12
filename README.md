@@ -37,7 +37,7 @@
    
      ---
 
-### Computer_technologist: About Me :
+### Computer Technologist: About Me :
      
      
 
@@ -45,9 +45,8 @@
 
 -  🏫 Currently a student.
   
--  ⛽ Coding is the fuel that runs my ship :sailboat:..
+-  Python enthusiast.
          
--  🐕 i love dogs.
 
 </div>
 <br>
