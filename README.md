@@ -2,6 +2,7 @@
 
 <div id="header" align="center">
   <img src="Simple Details Monochrome Hello! Let's Connect LinkedIn Banner.png" />
+  https://www.canva.com/design/DAFePDTGMyk/Y605QJMbA1XC90VVI_w3bg/edit?utm_content=DAFePDTGMyk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 </div>
 
 <div id="header" align="center">
