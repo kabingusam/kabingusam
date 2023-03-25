@@ -1,11 +1,9 @@
 <!-- intro and gif -->
 
 <div id="header" align="center">
-  <img src="Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.png" />
+  <img src="Black.png" />
 </div>
-<video controls>
-  <source src="Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.mp4" type="video/mp4">
-</video>
+
 
 <div id="header" align="center">
   <br>
