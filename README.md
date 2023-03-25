@@ -36,7 +36,7 @@
 <div align= "left" -->
    
 
-### Computer Technologist: About Me :
+<!-- ### Computer Technologist: About Me : -->
      
      
 <!-- 
