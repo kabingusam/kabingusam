@@ -1,7 +1,7 @@
 <!-- intro and gif -->
 
 <div id="header" align="center">
-  <img src="https://www.canva.com/design/DAFePDTGMyk/Y605QJMbA1XC90VVI_w3bg/edit?utm_content=DAFePDTGMyk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" />
+  <img src="Black Gradient Minimalist Corporate Business Personal Profile New LinkedIn Banner.png" />
 
 </div>
 
