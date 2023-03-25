@@ -27,20 +27,20 @@
   
 <!-- coding dude gif  -->
   
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> 
  </div>
   <br>
   <br>
-<div align= "left"
+<div align= "left" -->
    
      ---
 
 ### Computer Technologist: About Me :
      
      
-
+<!-- 
 -  🖥️ I'm a  passionate  Software Engineer from Nairobi 🇰🇪.        
 
 -  🏫 Currently a student.
@@ -50,7 +50,7 @@
 
 </div>
 <br>
-<br>
+<br> -->
 
 <div align="center">
    
